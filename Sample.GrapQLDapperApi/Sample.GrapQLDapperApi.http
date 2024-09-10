@@ -1,0 +1,6 @@
+@Sample.GrapQLDapperApi_HostAddress = http://localhost:5018
+
+GET {{Sample.GrapQLDapperApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
